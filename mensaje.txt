@@ -1,4 +1,4 @@
-curso: programación de sistemas informáticos
+curso: programación de sistemas informáticos2026
 institución : ISER
 estado: inicial
 colaborador: YulybethFuentes
