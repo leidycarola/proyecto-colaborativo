@@ -1,3 +1,4 @@
 curso: programación de sistemas informáticos
 institución : ISER
-estado: inicial: YulybethFuentes
+estado: inicial
+colaborador: YulybethFuentes
